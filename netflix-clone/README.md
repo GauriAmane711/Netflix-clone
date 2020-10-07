@@ -1,3 +1,7 @@
+Tryout the demo - https://netflix-clone-d2071.web.app
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
